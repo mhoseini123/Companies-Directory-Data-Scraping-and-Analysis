@@ -1,0 +1,22 @@
+
+# Python virtual environment
+venv/
+.env/
+
+# Byte-code files
+*.pyc
+__pycache__/
+
+# Jupyter Notebook files
+.ipynb_checkpoints/
+
+# Scrapy related files
+.scrapy/
+*.egg
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Plots (optional - if you want to regenerate them and not store in git)
+# plots/
